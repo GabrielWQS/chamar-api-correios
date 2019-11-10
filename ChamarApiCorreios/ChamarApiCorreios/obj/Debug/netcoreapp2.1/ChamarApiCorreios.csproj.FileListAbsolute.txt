@@ -1,0 +1,10 @@
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\bin\Debug\netcoreapp2.1\ChamarApiCorreios.deps.json
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\bin\Debug\netcoreapp2.1\ChamarApiCorreios.runtimeconfig.json
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\bin\Debug\netcoreapp2.1\ChamarApiCorreios.runtimeconfig.dev.json
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\bin\Debug\netcoreapp2.1\ChamarApiCorreios.dll
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\bin\Debug\netcoreapp2.1\ChamarApiCorreios.pdb
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\obj\Debug\netcoreapp2.1\ChamarApiCorreios.csproj.CoreCompileInputs.cache
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\obj\Debug\netcoreapp2.1\ChamarApiCorreios.AssemblyInfoInputs.cache
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\obj\Debug\netcoreapp2.1\ChamarApiCorreios.AssemblyInfo.cs
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\obj\Debug\netcoreapp2.1\ChamarApiCorreios.dll
+D:\Repositório\chamar-api-correios\ChamarApiCorreios\ChamarApiCorreios\obj\Debug\netcoreapp2.1\ChamarApiCorreios.pdb
